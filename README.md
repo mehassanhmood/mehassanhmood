@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Data Sceintist | Quantitative Analyst | Web App Developer
+Full Stack Data Sceintist | Quantitative Analyst | Web App Developer  
 I'm currently working on:<br>1. Research: Application of ML and algorithms in Capital Markets (Stocks)<br>2. BuraqTech: My start-up, CI/CD and adding new products while improving the existing.
 
 
