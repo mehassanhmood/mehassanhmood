@@ -1,9 +1,11 @@
-# 💫 About Me:
-- **Full Stack Data Scientist | Quantitative Analyst | Web App Developer**
-I'm currently working on:
-  1. Masters in Business Analyitics and Artificial Intelligence
-  2. *Research*: Application of ML and algorithms in Capital Markets (Stocks)    
-  3. *BuraqTech.ca*: My start-up, CI/CD and adding new products while improving the existing.
+# 💫 About Me:    
+    
+- **Full Stack Data Scientist | Quantitative Analyst | Web App Developer**    
+  
+I'm currently working on:    
+  1. Masters in Business Analyitics and Artificial Intelligence    
+  2. *Research*: Application of ML and algorithms in Capital Markets (Stocks)        
+  3. *BuraqTech.ca*: My start-up, CI/CD and adding new products while improving the existing.    
 
 
 # 💻 Tech Stack:
