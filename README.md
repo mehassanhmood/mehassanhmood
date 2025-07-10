@@ -1,6 +1,6 @@
 # 💫 About Me:    
     
-- **Full Stack Data Scientist | Quantitative Analyst **    
+- **Full Stack Data Scientist | Quantitative Analyst**    
   
 I'm currently working on:    
   1. Masters in Business Analyitics and Artificial Intelligence    
