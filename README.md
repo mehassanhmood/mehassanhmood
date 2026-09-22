@@ -1,11 +1,11 @@
 # 💫 About Me:    
     
-- **Full Stack Data Scientist | Quantitative Analyst**    
+**AI/ML Engineer & Quant System Architect**  
   
 I'm currently working on:    
-  1. Masters in Business Analyitics and Artificial Intelligence    
-  2. *Research*: Application of ML and algorithms in Capital Markets (Stocks)        
-  3. *BuraqTech.ca*: My start-up, CI/CD and adding new products while improving the existing.    
+  1. Cusal Inferencing and dynamic pricing.
+  2. *Research*: Application of ML and algorithms in Capital Markets
+  3. Maalio - For a better understanding of your finances.
 
 
 # 💻 Tech Stack:
